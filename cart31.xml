@@ -1,0 +1,21 @@
+<Variant ID="V1xxx">
+  <Name>Variantenname</Name>
+  <Zone>
+    <LocationX unit="m">3.2</LocationX> 
+    <LocationY unit="m">1.6</LocationY>
+    <Width unit="mm">210</Width>
+    <Height unit="mm">160</Height>
+    <StoneDamages> 
+       <Stone ID="S1">GUID 1</Stone> 
+    </StoneDamages>
+  </Zone>
+  <DamageTypes>
+    <DamageType ID="D1">损伤种类</DamageType>
+  </DamageTypes>
+  <RehabilitationMeasures>
+    <RehabMeasure ID="RM1">修复方案详情</RehabMeasure>
+  </RehabilitationMeasures>
+  <Cost currency="EUR">工程预算</Cost>
+  <Duration unit="Tage">花费时间</Duration> 
+  <Risk eval="高"/>
+</Variant>
