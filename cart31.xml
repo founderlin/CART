@@ -13,9 +13,9 @@
     <DamageType ID="D1">损伤种类</DamageType>
   </DamageTypes>
   <RehabilitationMeasures>
-    <RehabMeasure ID="RM1">修复方案详情</RehabMeasure>
+    <RehabMeasure ID="RM1">本处为第二区域修复的具体方法和描述</RehabMeasure>
   </RehabilitationMeasures>
-  <Cost currency="EUR">工程预算</Cost>
-  <Duration unit="Tage">花费时间</Duration> 
+  <Cost currency="EUR">100000.00工程预算</Cost>
+  <Duration unit="Tage">15</Duration> 
   <Risk eval="高"/>
 </Variant>
