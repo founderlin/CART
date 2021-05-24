@@ -10,12 +10,12 @@
     </StoneDamages>
   </Zone>
   <DamageTypes>
-    <DamageType ID="D2">2Schadenstyp</DamageType>
+    <DamageType ID="D2">损伤种类</DamageType>
   </DamageTypes>
   <RehabilitationMeasures>
-    <RehabMeasure ID="RM2">selcted measure TWO</RehabMeasure>
+    <RehabMeasure ID="RM2">本处为第二区域修复的具体方法和描述</RehabMeasure>
   </RehabilitationMeasures>
-  <Cost currency="EUR">220000.00</Cost>
+  <Cost currency="EUR">2000.00</Cost>
   <Duration unit="Tage">25.5</Duration> 
   <Risk eval="Hoch"/>
 </Variant>
