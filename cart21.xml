@@ -10,11 +10,11 @@
   <Variants>
     <Variant ID="V1">
       <VariantName>修复位置一</VariantName>
-      <VariantURL>https://raw.githubusercontent.com/founderlin/BIM-SIS_Files/main/var1.xml</VariantURL>
+      <VariantURL>https://raw.githubusercontent.com/founderlin/CART/main/cart31.xml</VariantURL>
     </Variant>
     <Variant ID="V2">
       <VariantName>修复位置二</VariantName>
-      <VariantURL>https://raw.githubusercontent.com/founderlin/BIM-SIS_Files/main/var2.xml</VariantURL>
+      <VariantURL>https://raw.githubusercontent.com/founderlin/CART/main/cart32.xml</VariantURL>
     </Variant>
   </Variants>
 </Project>
