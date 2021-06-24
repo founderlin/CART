@@ -13,9 +13,9 @@
     <DamageType ID="D2">损伤种类</DamageType>
   </DamageTypes>
   <RehabilitationMeasures>
-    <RehabMeasure ID="RM2">本处为第二区域修复的具体方法和描述</RehabMeasure>
+    <RehabMeasure ID="RM2">修复方案二</RehabMeasure>
   </RehabilitationMeasures>
-  <Cost currency="EUR">2000.00</Cost>
-  <Duration unit="Tage">2.5</Duration> 
+  <Cost currency="CNY">20000.00</Cost>
+  <Duration unit="Days">5</Duration> 
   <Risk eval="低"/>
 </Variant>
