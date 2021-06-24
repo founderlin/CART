@@ -1,7 +1,7 @@
 <Project ID="PW">
   <Name>项目名称</Name>
   <Version>1.0</Version>
-  <Timestamp> 时间信息 </Timestamp>
+  <Timestamp>时间信息</Timestamp>
   <GeoCoordinates> 
     <Latitude>51.0787584</Latitude>
     <Longitude>13.7199616</Longitude>
